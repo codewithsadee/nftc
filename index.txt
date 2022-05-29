@@ -1,0 +1,277 @@
+NFTC - Explore world's best NFT
+
+
+
+#---------- HEADER ----------#
+
+alt = NFTC Logo
+
+Menu
+
+aria-label = Close Menu
+<ion-icon name="close-circle-outline"></ion-icon>
+
+Home
+Explore
+Top Seller
+Collection
+Instruction
+Contact
+
+aria-label = Open Menu
+<ion-icon name="menu-outline"></ion-icon>
+
+<ion-icon name="wallet-outline"></ion-icon>
+Wallet Connect
+
+
+
+
+#---------- HERO ----------#
+
+Netstorm
+
+Discover, collect, and sell extraordinary NFTs
+
+Explore on the world's best & largest NFT marketplace
+
+<ion-icon name="rocket-outline" aria-hidden="true"></ion-icon>
+Explore
+
+<ion-icon name="create-outline" aria-hidden="true"></ion-icon>
+Create
+
+
+
+
+#---------- EXPLORE ----------#
+
+Exclusive Assets
+
+Explore
+
+Explore All
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+alt = Walking On Air
+Walking On Air
+
+Owned By
+Richard
+
+1.5 ETH
+1 of 1
+
+<ion-icon name="bag-add-outline" aria-hidden="true"></ion-icon>
+Place a Bid
+
+Domain Names
+
+John Deo
+2.7
+
+Trading Cards
+
+Arham
+2.3
+
+Industrial Revolution
+
+Yasmin
+1.8
+
+Utility
+
+Junaid
+1.7
+
+Sports
+
+ArtNox
+1.7
+
+Cartoon Heroes
+
+Junaid
+3.2
+
+Gaming Chair
+
+Johnson
+0.69
+
+Utility
+
+Junaid
+1.7
+
+Sports
+
+ArtNox
+1.7
+
+Cartoon Heroes
+
+Junaid
+3.2
+
+Gaming Chair
+
+Johnson
+0.69
+
+
+
+
+#---------- EXPLORE ----------#
+
+Creative Artist
+
+Top Sellers
+
+alt = Richard
+
+@Richard
+1.5 BNB
+
+@JohnDeo
+2.3 BNB
+
+@Junaid
+2.5 BNB
+
+@Yasmin
+1.9 BNB
+
+@ArhamH
+3.2 BNB
+
+@Sara
+4.7 BNB
+
+
+
+
+#---------- COLLECTION ----------#
+
+Most Popular
+
+Popular Collections
+
+View All
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+alt = Virtual Worlds
+
+alt = card avatar
+
+Virtual Worlds
+ERC-729
+
+
+Digital Arts
+ERC-522
+
+
+Sports
+ERC-495
+
+
+Photography
+ERC-873
+
+
+Collectibles
+ERC-972
+
+
+Trading Cards
+ERC-397
+
+
+Walking On Air
+ERC-403
+
+
+Domain Names
+ERC-687
+
+
+
+
+#---------- INSTRUCTION ----------#
+
+How It Works
+
+Create and sell your NFTs
+
+<ion-icon name="wallet-outline"></ion-icon>
+
+Set up your wallet
+
+Once you’ve set up your wallet of choice, connect it to OpenSea by clicking the NFT Marketplace in the top right corner. Learn about the wallets we support.
+
+<ion-icon name="grid-outline"></ion-icon>
+
+Create your collection
+
+Click Create and set up your collection. Add social links, a description, profile & banner images, and set a secondary sales fee.
+
+<ion-icon name="file-tray-outline"></ion-icon>
+
+Add your NFTs
+
+Upload your work (image, video, audio, or 3D art), add a title and description, and customize your NFTs with properties, stats, and unlockable content.
+
+<ion-icon name="bag-handle-outline"></ion-icon>
+
+List them for sale
+
+Choose between auctions, fixed-price listings, and declining-price listings. You choose how you want to sell your NFTs!
+
+
+
+
+#---------- FOOTER ----------#
+
+alt = NFTC Logo
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+<ion-icon name="logo-discord"></ion-icon>
+
+Useful Links
+
+All NFTs
+How It Works
+Create
+Explore
+Privacy & Terms
+
+Community
+
+Help Center
+Partners
+Suggestions
+Blog
+Newsletter
+
+Subscribe Us
+
+placeholder = info@yourmail.com
+
+aria-label = Submit
+<ion-icon name="paper-plane-outline"></ion-icon>
+
+&copy; 2022 codewithsadee. All Rights Reserved
+
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = Back to Top
+<ion-icon name="arrow-up-outline"></ion-icon>
